@@ -1,0 +1,19 @@
+{
+  "name": "scratchpad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "gsap": "^3.6.1",
+    "lodash-es": "^4.17.21",
+    "numeral": "^2.0.6",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lui",
+  "license": "ISC"
+}
